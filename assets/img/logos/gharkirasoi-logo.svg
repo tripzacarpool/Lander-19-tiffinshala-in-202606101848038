@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">GharKiRasoi</title>
+  <desc id="desc">A Uttarakhand mountain home kitchen logo for GharKiRasoi.</desc>
+  <defs>
+    <linearGradient id="roof" x1="48" x2="168" y1="75" y2="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a3118"/>
+      <stop offset=".55" stop-color="#d96a15"/>
+      <stop offset="1" stop-color="#2f6d22"/>
+    </linearGradient>
+  </defs>
+  <rect width="620" height="150" rx="0" fill="none"/>
+  <g transform="translate(16 8)">
+    <path d="M10 76 70 18l34 32 38-31 64 73" fill="none" stroke="#2f6d22" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M45 88 109 52l68 36" fill="none" stroke="url(#roof)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 96h132" fill="none" stroke="#5a3118" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(86 73)">
+      <path d="M8 22h70c7 0 13 6 13 13v2c0 17-14 26-48 26S-5 54-5 37v-2c0-7 6-13 13-13Z" fill="#8b3f12" stroke="#fff7ed" stroke-width="3"/>
+      <path d="M7 22c5-9 67-9 71 0" fill="none" stroke="#fff7ed" stroke-width="4" stroke-linecap="round"/>
+      <path d="M30 11c0-7 22-7 22 0 0 4-5 7-11 7s-11-3-11-7Z" fill="#8b3f12" stroke="#fff7ed" stroke-width="2.5"/>
+      <path d="M30 2c-8-12 12-17 2-29M53 2c-8-12 12-17 2-29" fill="none" stroke="#d96a15" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="244" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" letter-spacing="0" fill="#f8fafc">
+    Ghar<tspan fill="#f9b233">Ki</tspan><tspan fill="#8bc34a">Rasoi</tspan>
+  </text>
+  <text x="248" y="106" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3" fill="#f9b233">
+    HALDWANI HOME FOOD
+  </text>
+</svg>
